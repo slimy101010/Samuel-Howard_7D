@@ -3,18 +3,15 @@ body {
     background-color: #f0f0f0; /* light blue */
 }
 
-/* Style for all paragraphs */
+
 p {
     color: red;
     font-size: 16px;
     font-family: 'Arial',
-
-
-/* Style for the main heading */
 h1 {
-    text-align: center; /* Puts the heading in the middle */
-    border: 2px solid orange; /* Adds an orange border around the heading */
-    padding: 10px; /* Adds space inside the border */
+    text-align: center;
+    border: 2px solid orange
+    padding: 10px
 
 
 
